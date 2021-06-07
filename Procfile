@@ -1,0 +1,1 @@
+web: gunicorn learn_log.wsgi --log-file -
